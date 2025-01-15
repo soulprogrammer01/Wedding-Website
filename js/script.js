@@ -24,7 +24,7 @@ $(document).on('click', function(){
 });
 
 // add audio 
-// let mySound = new Audio('..\assets\mp3\asd1.mp3');
+// let mySound = new Audio('..\assets\asd1.mp3');
 // mySound.play();
 
 function pauseAudio() { 
@@ -34,7 +34,7 @@ function pauseAudio() {
 };
 
 // Set the date we're counting down to
-var countDownDate = new Date("April 15, 2022 00:00:00").getTime();
+var countDownDate = new Date("February 24, 2025 00:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
